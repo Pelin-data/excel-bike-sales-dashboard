@@ -1,7 +1,5 @@
 # Excel Bike Sales Dashboard
-## 📸 Dashboard Preview
 
-![Excel Bike Sales Dashboard](dashboard_preview.png)
 
 ## 📊 Project Overview
 This project is an interactive Excel dashboard created to analyze bike sales data.
